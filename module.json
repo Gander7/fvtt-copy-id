@@ -1,16 +1,27 @@
 {
-    "name": "fvtt-copy-id",
-    "title": "Copy ID Button",
-    "description": "Foundry VTT Module that adds a button to copy the link ID of entities like actors for use elsewhere. (Skips the step to drag-and-drop to a journal page)",
-    "author": "MisterIXI#1504",
-    "version": "1.1.2",
+    "name": "fvtt-copy-id-buttons",
+    "title": "Copy ID Buttons",
+    "description": "Foundry VTT Module that adds buttons to copy the link ID of entities like actors for use elsewhere.",
+    "authors": [
+        {
+            "name": "Gander7",
+            "discord": "gander7",
+            "email": "gander7.dev@proton.me",
+            "ko-fi": "https://ko-fi.com/gander7",
+            "bsky": "@gander7.bsky.social‬"
+        },
+        {
+            "name": "MisterIXI (Forked From)",
+        }
+    ],
+    "version": "1.1.3",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9.255",
     "manifestPlusVersion": "1.2.0",
-    "url": "https://github.com/MisterIXI/fvtt-copy-id",
-    "download": "https://github.com/MisterIXI/fvtt-copy-id/releases/download/v1.1.2/v1.1.2.zip",
-    "manifest": "https://raw.githubusercontent.com/MisterIXI/fvtt-copy-id/main/module.json",
-    "bugs": "https://github.com/MisterIXI/fvtt-copy-id/issues",
+    "url": "https://github.com/Gander7/fvtt-copy-id-buttons",
+    "download": "https://github.com/Gander7/fvtt-copy-id-buttons/releases/download/v1.1.3/v1.1.3.zip",
+    "manifest": "https://raw.githubusercontent.com/Gander7/fvtt-copy-id-buttons/main/module.json",
+    "bugs": "https://github.com/Gander7/fvtt-copy-id-buttons/issues",
     "esmodules": [ "./copyID.js", "./moduleSettings.js" ],
     "styles": [ "./copyIDstyle.css" ],
     "readme": "./README.md"
