@@ -1,6 +1,6 @@
 {
     "name": "fvtt-copy-id-buttons",
-    "title": "Copy ID Buttons",
+    "label": "Copy ID Buttons",
     "description": "Foundry VTT Module that adds buttons to copy the link ID of entities like actors for use elsewhere.",
     "authors": [
         {
@@ -8,10 +8,10 @@
             "discord": "gander7",
             "email": "gander7.dev@proton.me",
             "ko-fi": "https://ko-fi.com/gander7",
-            "bsky": "@gander7.bsky.social‬"
+            "bsky": "gander7.bsky.social‬"
         },
         {
-            "name": "MisterIXI (Forked From)",
+            "name": "MisterIXI (Original, Forked)",
         }
     ],
     "version": "1.1.3",
